@@ -1,2 +1,2 @@
 # Booking-Application-MERN
- Fully Functional online MERN Hotel Booking Application 
+ Ongoing Fully Functional online MERN Hotel Booking Application 
